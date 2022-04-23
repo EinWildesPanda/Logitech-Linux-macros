@@ -3,8 +3,8 @@ Simple macro manager for logitech keyboards.
 
 # Requirements
 
-» Libratbag (Install over apt/pamac/..)
-» Pynput v1.7.6, later versions may work (pip)
+» Libratbag (Install over apt/pamac/..) <br/>
+» Pynput v1.7.6, later versions may work (pip) <br/>
 » Python 3 (tested with 3.10.4)
 
 # How does it work?
